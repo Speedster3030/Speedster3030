@@ -9,8 +9,8 @@ Right now, I'm focused on other things, but I'll be back to dive into the low-le
 
 - ⚙️ **Assembly**
 - 🧠 **Operating systems**
-- ♟️ **Advanced chess engines** – better move generation, evaluation, AI
-- 🌍 **Simulations** – beyond games, modeling real-world systems
+- ♟️ **Advanced chess engines** – better move generation and evaluation
+- 🌍 **Simulations** – game like environments
 
 ---
 
