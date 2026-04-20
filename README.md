@@ -18,7 +18,7 @@ Right now, I'm focused on other things, but I'll be back to dive into the low-le
 
 | Project | Language |
 |---------|----------|
-| [Chess](https://github.com/Speedster3030/Chess) | Java |
+| [Chess](https://github.com/Speedster3030/Chess) | Java(learned OOP through this) |
 | [Chess_C](https://github.com/Speedster3030/Chess_C) | C |
 | [Tic-Tac-Toe](https://github.com/Speedster3030/Tic-Tac-Toe) | Java |
 | [Tic_Tac_C](https://github.com/Speedster3030/Tic_Tac_C) | C |
