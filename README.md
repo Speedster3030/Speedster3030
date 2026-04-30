@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Speedster3030
+# 👋 Hi, I'm Ahsan (Speedster3030)
 
 I build things out of **curiosity**—on my own, to learn how they work.  
 Right now, I'm focused on other things, but I'll be back to dive into the low-level world.
