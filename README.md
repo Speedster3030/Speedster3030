@@ -4,7 +4,7 @@ I build things from the ground up to understand them. Currently focused on low-l
 
 ## Languages I use most
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speedster3030&layout=compact&theme=dark)](https://github.com/Speedster3030)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speedster3030&layout=compact&theme=dark&hide_title=true)
 
 ## Projects
 
