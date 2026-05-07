@@ -2,9 +2,13 @@
 
 I build things from the ground up to understand them. Currently focused on low-level fundamentals: parsers, games without engines, and tiny interpreters.
 
-## Languages I use most
+## 📊 Most Used Languages
 
-![Top Langs]<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speedster3030&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speedster3030&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
+
+## 📈 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Speedster3030&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 ## Projects
 
 - [Basic Parser](https://github.com/Speedster3030/Basic-Parser) – A minimal interpreter that understands `print`. Written in C++.
