@@ -16,8 +16,3 @@ I build things from the ground up to understand them. Currently focused on low-l
 - [Tic-Tac-Toe](https://github.com/Speedster3030/Tic-Tac-Toe) – Console game in Java.
 - [Expense Tracker](https://github.com/Speedster3030/Expense-Tracker) – Simple web tool in JavaScript.
 
-## What I'm learning
-
-- How a compiler really works (lexing → parsing → codegen)
-- Pointers and manual memory management
-- Building without external libraries where possible
